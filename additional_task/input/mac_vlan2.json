@@ -1,0 +1,8 @@
+[
+    {"mac": "00:11:22:33:44:FF", "vlan": 10, "port": 1},
+    {"mac": "66:77:88:99:AA:FF", "vlan": 20, "port": 2},
+    {"mac": "CC:DD:EE:FF:00:FF", "vlan": 30, "port": 3},
+    {"mac": "EF:D1:65:03:A3:FF", "vlan": 40, "port": 4},
+    {"mac": "F5:E3:FF:01:D2:FF", "vlan": 20, "port": 5}
+]
+

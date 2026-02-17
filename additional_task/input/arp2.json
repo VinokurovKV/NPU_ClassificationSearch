@@ -1,0 +1,7 @@
+[
+  {"ip_next_hop" : "192.168.2.2", "mac_next_hop": "00:11:22:33:44:FF"},
+  {"ip_next_hop" : "192.168.2.4", "mac_next_hop": "66:77:88:99:AA:FF"},
+  {"ip_next_hop" : "192.168.2.6", "mac_next_hop": "CC:DD:EE:FF:00:FF"},
+  {"ip_next_hop" : "192.168.2.8", "mac_next_hop": "EF:D1:65:03:A3:FF"},
+  {"ip_next_hop" : "192.168.2.10", "mac_next_hop": "F5:E3:FF:01:D2:FF"}
+]
